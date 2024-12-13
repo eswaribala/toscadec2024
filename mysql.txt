@@ -1,0 +1,8 @@
+create table Project(Project_Id int NOT NULL AUTO_INCREMENT PRIMARY KEY, Name varchar(150), Location varchar(150), Start_Date date);
+
+create table Employee(Employee_Id NOT NULL AUTO_INCREMENT PRIMARY KEY, Name varchar(150),
+Project_Id_FK int, Foreign key(Project_Id_FK) References Project(Project_Id));
+
+
+insert into Project(Name,Location,Start_Date) values('Clinic Operations','Bangalore','2005-11-01');
+insert into Employee(Name,Project_Id_FK) values('Suresh',1);
