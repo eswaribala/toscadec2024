@@ -7,3 +7,290 @@ Project_Id_FK int, Foreign key(Project_Id_FK) References Project(Project_Id));
 insert into Project(Name,Location,Start_Date) values('Clinic Operations','Bangalore','2005-11-01');
 insert into Employee(Name,Project_Id_FK) values('Suresh',1);
 update Employee set Name='Somesh' where Employee_Id=1;
+mysql -h localhost -u user -p
+quit
+SELECT VERSION(), CURRENT_DATE;
+SELECT VERSION(); SELECT NOW();
+SELECT USER();
+SHOW DATABASES;
+USE test;
+SHOW TABLES;
+
+User account
+
+CREATE USER 'finley'@'localhost' IDENTIFIED BY 'some_pass';
+GRANT ALL PRIVILEGES ON *.* TO 'finley'@'localhost'
+     WITH GRANT OPTION;
+SHOW GRANTS FOR 'root'@'localhost';
+ GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,DROP
+         ON bankaccount.*
+         TO 'custom'@'localhost';
+ DROP USER 'jeffrey'@'localhost';
+
+
+CREATE USER 'francis'@'localhost' IDENTIFIED BY 'frank'
+    ->     WITH MAX_QUERIES_PER_HOUR 20
+    ->          MAX_UPDATES_PER_HOUR 10
+    ->          MAX_CONNECTIONS_PER_HOUR 5
+    ->          MAX_USER_CONNECTIONS 2;
+
+ALTER USER 'francis'@'localhost' WITH MAX_QUERIES_PER_HOUR 100;
+ALTER USER 'jeffrey'@'localhost'
+    -> IDENTIFIED BY 'mypass';
+SET PASSWORD FOR
+    -> 'jeffrey'@'localhost' = PASSWORD('mypass');
+-------
+from commandline changing password
+mysqladmin -u user_name -h host_name password "new_password"
+------
+SET GLOBAL default_password_lifetime = 180;
+ALTER USER 'jeffrey'@'localhost' PASSWORD EXPIRE INTERVAL 90 DAY;
+ALTER USER 'jeffrey'@'localhost' PASSWORD EXPIRE NEVER;
+
+Access denied for user 'user_name'@'host_name'.
+Account is locked.
+
+ALTER USER locked@localhost ACCOUNT UNLOCK;
+Backup
+mysqldump --databases test > dump.sql
+specific tables
+mysqldump test t1 t3 t7 > dump.sql
+mysqldump -u root -p tecmint --databases rsyslog syslog > rsyslog_syslog.sql
+
+Restore
+mysql < dump.sql
+
+from mysql
+
+mysql> CREATE DATABASE IF NOT EXISTS db1;
+mysql> USE db1;
+mysql> source dump.sql
+
+mysql -u [username]  p[password] [database_name] < [dump_file.sql]
+
+
+
+
+
+
+
+CREATE DATABASE wonderdb;
+mysql -h host -u user -p wonderdb
+GRANT ALL ON menagerie.* TO 'your_mysql_name'@'your_client_host';
+
+CREATE TABLE shop (
+    article INT(4) UNSIGNED ZEROFILL DEFAULT '0000' NOT NULL,    dealer  CHAR(20)    DEFAULT ''     NOT NULL,
+    price   DOUBLE(16,2)      DEFAULT '0.00' NOT NULL,
+ PRIMARY KEY(article, dealer));
+
+CREATE TABLE animals (
+     id MEDIUMINT NOT NULL AUTO_INCREMENT,
+     name CHAR(30) NOT NULL,
+     PRIMARY KEY (id)
+);
+
+INSERT INTO animals (name) VALUES
+    ('dog'),('cat'),('penguin'),
+    ('lax'),('whale'),('ostrich');
+
+SELECT * FROM animals;
+
+CREATE TABLE person (
+    id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+    name CHAR(60) NOT NULL,
+    PRIMARY KEY (id)
+);
+
+CREATE TABLE shirt (
+    id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+    style ENUM('t-shirt', 'polo', 'dress') NOT NULL,
+    color ENUM('red', 'blue', 'orange', 'white', 'black') NOT NULL,
+    owner SMALLINT UNSIGNED NOT NULL REFERENCES person(id),
+    PRIMARY KEY (id)
+);
+
+INSERT INTO person VALUES (NULL, 'Antonio Paz');
+SELECT @last := LAST_INSERT_ID();
+INSERT INTO shirt VALUES
+(NULL, 'dress', 'orange', @last),
+(NULL, 'polo', 'red', @last),
+(NULL, 'dress', 'blue', @last),
+(NULL, 't-shirt', 'white', @last);
+SELECT * FROM shirt;
+
+SELECT s.* FROM person p INNER JOIN shirt s
+   ON s.owner = p.id
+ WHERE p.name LIKE 'Lilliana%'
+   AND s.color <> 'white';
+
+
+CREATE TABLE pet (name VARCHAR(20), owner VARCHAR(20),
+  species VARCHAR(20), gender CHAR(1), birth DATE, death DATE);
+CREATE TABLE event (name VARCHAR(20), date DATE,
+     type VARCHAR(15), remark VARCHAR(255));
+desc;
+
+LOAD DATA LOCAL INFILE '/path/pet.txt' INTO TABLE pet;
+LOAD DATA LOCAL INFILE '/path/pet.txt' INTO TABLE pet
+    LINES TERMINATED BY '\r\n';
+//derby
+CALL SYSCS_UTIL.SYSCS_IMPORT_TABLE 
+   ('ADMIN','Flight','c:\output\myfile.csv',',',null,null,0);
+//mysql
+LOAD DATA INFILE 'data.txt' INTO TABLE tbl_name
+  FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+  LINES TERMINATED BY '\r\n'
+  IGNORE 1 LINES;
+SELECT name, birth, CURDATE(),
+     TIMESTAMPDIFF(YEAR,birth,CURDATE()) AS age
+    FROM pet;
+
+SELECT * FROM pet WHERE name LIKE '%w%';
+ SELECT * FROM pet WHERE name LIKE '_____';
+This query matches only lowercase b at the beginning of a name:
+SELECT * FROM pet WHERE name REGEXP BINARY '^b';
+SELECT owner, COUNT(*) FROM pet GROUP BY owner;
+SELECT species, sex, COUNT(*) FROM pet GROUP BY species, sex;
+
+select fs.name as 'From State Name',fc.name as 'From City', ts.name as 'To State Name',tc.name as 'To City', distance  from city fc, city tc, route r,states fs,states ts where r.fromcity=fc.cityid and r.toCity=tc.cityid and fc.stateId_Fk = fs.state_Id and tc.stateId_fk=ts.state_Id;
+
+
+SELECT pet.name,
+    -> TIMESTAMPDIFF(YEAR,birth,date) AS age,
+    -> remark
+    -> FROM pet INNER JOIN event
+    ->   ON pet.name = event.name
+    -> WHERE event.type = 'litter';
+
+SELECT DISTINCT species FROM pet;
+SELECT MAX(article) AS article FROM shop;
+SELECT @min_price:=MIN(price),@max_price:=MAX(price) FROM shop;
+--To find expensive article---
+SELECT article, dealer, price
+FROM   shop
+WHERE  price=(SELECT MAX(price) FROM shop);
+
+SELECT article, dealer, price
+FROM   shop s1
+WHERE  price=(SELECT MAX(s2.price)
+              FROM shop s2
+              WHERE s1.article = s2.article);
+
+
+
+Uncorrelated subquery:
+
+SELECT s1.article, dealer, s1.price
+FROM shop s1
+JOIN (
+  SELECT article, MAX(price) AS price
+  FROM shop
+  GROUP BY article) AS s2
+  ON s1.article = s2.article AND s1.price = s2.price;
+
+ALTER TABLE users ADD grade_id SMALLINT UNSIGNED NOT NULL DEFAULT 0;
+ALTER TABLE users ADD CONSTRAINT fk_grade_id FOREIGN KEY (grade_id) REFERENCES grades(id);
+
+alter table PC add constraint switch_fk foreign key(switch_host) references switch(host);
+
+
+update PC set switch_host='Switch2950-24' where PCNO='PC-1';
+
+
+CREATE TABLE classicmodels.Customer(
+Cust_ID int,
+Cust_Last_Name VarChar(20),
+Cust_Mid_Name VarChar(4),
+Cust_First_Name VarChar(20),
+Account_No int, 
+Account_Type VarChar(25) ,
+Bank_Branch VarChar(25) ,
+Cust_Email VarChar(30),
+CONSTRAINT pk1 PRIMARY KEY(Account_NO));
+
+
+
+insert into customer(Customer_Id,FullName,Email,Gender,Contact_No,Photo,SkillSet,dob,status,location,address)
+values(1,'Parameswari Bala','Parameswaribala@gmail.com','FEMALE', 9952032862,Load_File('F:/Local disk/vigneshpics/logo.jpeg'),'C,Java,Python',
+'1970-12-02',true,POINT(82.17667,20.187787),'{"DoorNo":16,"StreetName":"First Street","City":"Chennai","Pincode":602024}');
+
+select concat('myname is',name) as name from classicmodels.employee;
+
+"INSERT INTO tablename (col_name, col_date) VALUE ('DATE: Auto CURDATE()', CURDATE() )";
+insert into transaction values(1,curdate());
+
+insert into transaction values(1,now());
+
+insert into classicmodels.transaction values(3,date_format('2009-4-4','%Y%m%d'));
+
+"INSERT INTO tablename (col_name, col_date) VALUES ('DATE: Manual Date', '2008-7-04')";
+
+SELECT DATE_FORMAT( your_date_field, '%M %e, %Y, %l:%i%p') as newdate FROM your_table; 
+
+SELECT DATE_FORMAT('2008-12-07', '%W %e %M %Y') from dual;
+
+select * from classicmodels.employee where datediff(curdate(),DOJ)/365>20;
+
+SELECT TIMESTAMPDIFF(HOUR,curdate(),'2013-01-01 00:00:00');
+
+select ifnull(name,'hCl') from employee
+SELECT DATEDIFF('2007-12-31 23:59:59','2007-12-30');
+
+mysql> SELECT '2008-12-31 23:59:59' + INTERVAL 1 SECOND;
+        -> '2009-01-01 00:00:00'
+mysql> SELECT INTERVAL 1 DAY + '2008-12-31';
+        -> '2009-01-01'
+mysql> SELECT '2005-01-01' - INTERVAL 1 SECOND;
+        -> '2004-12-31 23:59:59'
+mysql> SELECT DATE_ADD('2000-12-31 23:59:59',
+    ->                 INTERVAL 1 SECOND);
+        -> '2001-01-01 00:00:00'
+mysql> SELECT DATE_ADD('2010-12-31 23:59:59',
+    ->                 INTERVAL 1 DAY);
+        -> '2011-01-01 23:59:59'
+mysql> SELECT DATE_ADD('2100-12-31 23:59:59',
+    ->                 INTERVAL '1:1' MINUTE_SECOND);
+        -> '2101-01-01 00:01:00'
+mysql> SELECT DATE_SUB('2005-01-01 00:00:00',
+    ->                 INTERVAL '1 1:1:1' DAY_SECOND);
+        -> '2004-12-30 22:58:59'
+mysql> SELECT DATE_ADD('1900-01-01 00:00:00',
+    ->                 INTERVAL '-1 10' DAY_HOUR);
+        -> '1899-12-30 14:00:00'
+mysql> SELECT DATE_SUB('1998-01-02', INTERVAL 31 DAY);
+        -> '1997-12-02'
+mysql> SELECT DATE_ADD('1992-12-31 23:59:59.000002',
+    ->            INTERVAL '1.999999' SECOND_MICROSECOND);
+        -> '1993-01-01 00:00:01.000001'
+
+mysql> SELECT DATE_FORMAT('2009-10-04 22:23:00', '%W %M %Y');
+        -> 'Sunday October 2009'
+mysql> SELECT DATE_FORMAT('2007-10-04 22:23:00', '%H:%i:%s');
+        -> '22:23:00'
+mysql> SELECT DATE_FORMAT('1900-10-04 22:23:00',
+    ->                 '%D %y %a %d %m %b %j');
+        -> '4th 00 Thu 04 10 Oct 277'
+mysql> SELECT DATE_FORMAT('1997-10-04 22:23:00',
+    ->                 '%H %k %I %r %T %S %w');
+        -> '22 22 10 10:23:00 PM 22:23:00 00 6'
+
+
+mysql> SELECT DATE_FORMAT('1999-01-01', '%X %V');
+        -> '1998 52'
+mysql> SELECT DATE_FORMAT('2006-06-00', '%d');
+        -> '00'
+
+mysql> SELECT EXTRACT(YEAR FROM '2009-07-02');
+       -> 2009
+mysql> SELECT EXTRACT(YEAR_MONTH FROM '2009-07-02 01:02:03');
+       -> 200907
+mysql> SELECT EXTRACT(DAY_MINUTE FROM '2009-07-02 01:02:03');
+       -> 20102
+mysql> SELECT EXTRACT(MICROSECOND
+    ->                FROM '2003-01-02 10:30:00.000123'
+
+
+
+
+
+
