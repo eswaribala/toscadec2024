@@ -1,0 +1,3 @@
+go to downloads folder in cmdline
+
+java -jar jenkins.war --httpPort=7074
