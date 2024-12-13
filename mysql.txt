@@ -6,3 +6,4 @@ Project_Id_FK int, Foreign key(Project_Id_FK) References Project(Project_Id));
 
 insert into Project(Name,Location,Start_Date) values('Clinic Operations','Bangalore','2005-11-01');
 insert into Employee(Name,Project_Id_FK) values('Suresh',1);
+update Employee set Name='Somesh' where Employee_Id=1;
