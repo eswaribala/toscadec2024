@@ -1,0 +1,74 @@
+[3] 17:18:07: Log started for 'H:\toscabatch2projects\APITestProject\APITestProject.tws'
+[3] 17:18:07: Log level: 4
+[3] 17:18:07: Release: 24.2.0.1807
+[3] 17:18:07: Execution Approval is disabled.
+[3] 17:18:07: Using the following service discovery: https://desktop-b08baan/
+[3] 17:18:07: File Service is disabled.
+[3] 17:18:07: ShouldSetAuthorizationHeader = True.
+[3] 17:18:07:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 17:18:07:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 17:18:07:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 17:18:07:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 17:18:07:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 17:18:07:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 17:18:07: Opened from Workspace File 'H:\toscabatch2projects\APITestProject\APITestProject.tws'
+[3] 17:18:07: Trying to authenticate ldap user Dell against workspace
+[3] 17:18:07: Error getting ldap domain: The specified domain does not exist or cannot be contacted. DESKTOP-B08BAAN
+[3] 17:18:07: Error getting NativeID From WindowsUserSystem.Runtime.InteropServices.COMException (0x8007054B): The specified domain either does not exist or could not be contacted.
+   at System.DirectoryServices.DirectoryEntry.Bind(Boolean throwIfFail)
+   at System.DirectoryServices.PropertyValueCollection.PopulateList()
+   at System.DirectoryServices.PropertyValueCollection..ctor(DirectoryEntry entry, String propertyName)
+   at System.DirectoryServices.PropertyCollection.get_Item(String propertyName)
+   at System.DirectoryServices.DirectoryEntry.Bind(Boolean throwIfFail)
+   at System.DirectoryServices.DirectoryEntry.RefreshCache()
+   at Tricentis.TCCore.Base.Ownership.LDAP.LDAPAuthentication.GetNativeID(String username, String domainName, String password, Boolean processIdentityMustMatch, Action`1 ldapsConnectionFailedAction)
+[3] 17:18:07: Failed to authenticate ldap user against workspace
+[3] 17:18:08: Workspace.Login for 'Admin'succeeded
+[4] 17:18:12:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh navigation view 'APITestProject''
+[4] 17:18:12:  ShowStatusInfo: 'Ready'
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh detail view 'APITestProject''
+[4] 17:18:12:  ShowStatusInfo: 'Ready'
+[4] 17:18:12:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:18:12:  ShowStatusInfo: 'Refresh all finished'
+[3] 17:18:13: OpenWorkspace took 00:00:06.1685772 to finish
+[3] 17:18:13: File Service is disabled.
+[4] 17:18:17:  ShowStatusInfo: 'Ready'
+[4] 17:18:22:  ShowStatusInfo: '1 object selected'
+[4] 17:18:23:  ShowStatusInfo: 'Ready'
+[4] 17:18:23:  ShowStatusInfo: '1 object selected'
+[4] 17:18:24:  ShowStatusInfo: 'Ready'
+[4] 17:18:25:  ShowStatusInfo: '1 object selected'
+[4] 17:18:30:  ShowStatusInfo: 'Ready'
+[4] 17:18:30:  ShowStatusInfo: '1 object selected'
+[3] 17:18:34: Closing Workspace!
+[3] 17:18:34: Log closed!

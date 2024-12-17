@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\APITestProject.db</DatabasePathAndName>
+    <Database>H:\toscabatch2projects\APITestProject\Repository\APITestProject.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>MSSQLRepository</RepoClass>
+    <ConnectionData>031139008000000000000000000010010078045042075045178117113013246014241015208117050176112114116244139241013014014244009118013010115013050050048050177118073044073076074044078181013201047078078116012240116113178014205076177045078180014040079177045203076207075045206176006000000000255255003000051242232250078000000000</ConnectionData>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a16e60b-cd18-5bcb-9f2f-493d7205c470</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>b0879a04-5368-46f9-8982-a18df38ea9b4</TCWorkspaceID>
+  <TCCommonRepositoryID>d6394852-7340-4d44-9f37-fc5092c12265</TCCommonRepositoryID>
+  <TCWorkspaceDescription />
+</TCWorkspace>
