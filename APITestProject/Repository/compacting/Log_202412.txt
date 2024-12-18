@@ -17,3 +17,15 @@
 [Info] 17-12-2024 17:18:47: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 17-12-2024 17:18:48: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 17-12-2024 17:18:49: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:39: 64/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 17-12-2024 18:34:40: Compacting started
+[Info] 17-12-2024 18:34:40: 76/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 17-12-2024 18:34:41: 88/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:41: Compacting Workspace - Defragmentation finished in 00:00:01.0135287, database size: 8306688
+[Info] 17-12-2024 18:34:41: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.2146046, database size: 8306688
+[Info] 17-12-2024 18:34:41: Compacting finished
+[Info] 17-12-2024 18:34:42: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:43: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:44: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:45: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 17-12-2024 18:34:46: 99/100 - Defragmenting Data - [estimated time left 0 s]

@@ -1,0 +1,144 @@
+[3] 14:07:50: Log started for 'H:\toscabatch2projects\PatientAPIProject\PatientAPIProject.tws'
+[3] 14:07:50: Log level: 4
+[3] 14:07:50: Release: 24.2.0.1807
+[3] 14:07:50: Execution Approval is disabled.
+[3] 14:07:50: Using the following service discovery: https://desktop-b08baan:443/
+[3] 14:07:50: ShouldSetAuthorizationHeader = True.
+[3] 14:07:50:  Save started!
+[3] 14:07:50: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:07:50: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:07:50: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:07:50: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:07:50: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:07:50: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:07:50:  Save finished!
+[4] 14:07:51:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 14:07:51:  Save started!
+[3] 14:07:51: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:07:51: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:07:51: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:07:51: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:07:51: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:07:51: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:07:51:  Save finished!
+[4] 14:07:51:  ShowStatusInfo: 'Workspace 'H:\toscabatch2projects\PatientAPIProject\PatientAPIProject.tws' created successfully!'
+[4] 14:07:51:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 14:07:51:  ShowStatusInfo: 'Analyzing subset...'
+[4] 14:07:51:  ShowStatusInfo: 'Checkout try...'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 0 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 1.00 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 1.99 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 2.99 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 3.99 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 4.99 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 5.98 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 6.98 %'
+[4] 14:07:51:  ShowStatusInfo: 'Importing subset objects... : 7.98 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 8.98 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 9.97 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 10.97 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 11.97 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 12.96 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 13.96 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 14.96 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 15.96 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 16.95 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 17.95 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 18.95 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 19.95 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 20.94 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 21.94 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 22.94 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 23.94 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 24.93 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 25.93 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 26.93 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 27.92 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 28.92 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 29.92 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 30.92 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 31.91 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 32.91 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 33.91 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 34.91 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 35.90 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 36.90 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 37.90 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 38.89 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 39.89 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 40.89 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 41.89 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 42.88 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 43.88 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 44.88 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 45.88 %'
+[4] 14:07:52:  ShowStatusInfo: 'Importing subset objects... : 46.87 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 47.87 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 48.87 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 49.87 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 50.86 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 51.86 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 52.86 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 53.85 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 54.85 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 55.85 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 56.85 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 57.84 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 58.84 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 59.84 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 60.84 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 61.83 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 62.83 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 63.83 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 64.82 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 65.82 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 66.82 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 67.82 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 68.81 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 69.81 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 70.81 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 71.81 %'
+[4] 14:07:53:  ShowStatusInfo: 'Importing subset objects... : 72.80 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 73.80 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 74.80 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 75.80 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 76.79 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 77.79 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 78.79 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 79.78 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 80.78 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 81.78 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 82.78 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 83.77 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 84.77 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 85.77 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 86.77 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 87.76 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 88.76 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 89.76 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 90.75 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 91.75 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 92.75 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 93.75 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 94.74 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 95.74 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 96.74 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 97.74 %'
+[4] 14:07:54:  ShowStatusInfo: 'Importing subset objects... : 98.73 %'
+[4] 14:07:55:  ShowStatusInfo: 'Importing subset objects... : 99.73 %'
+[4] 14:07:55:  ShowStatusInfo: 'Loading top objects...'
+[4] 14:07:55:  ShowStatusInfo: 'Handling top folders...'
+[4] 14:07:55:  ShowStatusInfo: 'Merging objects...'
+[4] 14:07:56:  ShowStatusInfo: 'Saving...'
+[3] 14:07:56: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:07:56: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:07:56: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:07:56: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:07:56: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:07:56: QTestIntegrationAddIn finished unlinking objects from QTest
+[4] 14:07:56:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 14:07:56:  ShowStatusInfo: 'Import Subset finished'
+[3] 14:07:56: Task 'Import Subset' finished
+[4] 14:07:56:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 14:08:00: Closing Workspace!
+[3] 14:08:00: Log closed!
