@@ -1,0 +1,165 @@
+[3] 12:56:41: Log started for 'H:\toscabatch2projects\PatientAPIProject\PatientAPIProject.tws'
+[3] 12:56:41: Log level: 4
+[3] 12:56:41: Release: 24.2.0.1807
+[3] 12:56:41: Execution Approval is disabled.
+[3] 12:56:41: Using the following service discovery: http://localhost:72
+[3] 12:56:41: ShouldSetAuthorizationHeader = False.
+[3] 12:56:41:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 12:56:41:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 12:56:41:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 12:56:41:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 12:56:41:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 12:56:41:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 12:56:41: Opened from Workspace File 'H:\toscabatch2projects\PatientAPIProject\PatientAPIProject.tws'
+[2] 12:56:41: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 12:56:51:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:56:51:  ShowStatusInfo: 'Ready'
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:56:51:  ShowStatusInfo: 'Ready'
+[4] 12:56:51:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:56:51:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:56:51: OpenWorkspace took 00:00:12.3682425 to finish
+[2] 12:56:51: Common repository is not available
+[4] 12:56:56:  ShowStatusInfo: 'Ready'
+[4] 12:57:05:  ShowStatusInfo: '1 object selected'
+[4] 12:57:07:  ShowStatusInfo: 'Ready'
+[4] 12:57:07:  ShowStatusInfo: '1 object selected'
+[4] 12:57:09:  ShowStatusInfo: 'Ready'
+[4] 12:57:11:  ShowStatusInfo: '1 object selected'
+[4] 12:57:11:  ShowStatusInfo: 'Ready'
+[3] 12:57:12: Task 'Run in ScratchBook' started on '/TestCases/DemoWebShop'
+[4] 12:57:12:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:13:  ShowStatusInfo: 'Ready'
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:13:  ShowStatusInfo: 'Ready'
+[4] 12:57:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:57:13:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:57:14:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 12:57:14:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 12:57:15:  ShowStatusInfo: 'Execution Running ...'
+[4] 12:57:24:  ShowStatusInfo: 'Processing execution results ...'
+[3] 12:57:24: AgentResults count: 1
+[3] 12:57:24: executionResponses count: 1
+[2] 12:57:27: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=en-IN, PublicKeyToken=null
+[2] 12:57:27: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=en, PublicKeyToken=null
+[4] 12:57:27:  ShowStatusInfo: 'Run finalizing ...'
+[4] 12:57:27:  ShowStatusInfo: 'Run finished'
+[3] 12:57:27: Task 'Run' finished
+[4] 12:57:27:  ShowStatusInfo: 'Ready'
+[4] 12:57:28:  ShowStatusInfo: 'Run in ScratchBook finalizing ...'
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Ready'
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Ready'
+[4] 12:57:28:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:57:28:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 12:57:28: Task 'Run in ScratchBook' finished
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh navigation view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Ready'
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh detail view 'PatientAPIProject''
+[4] 12:57:28:  ShowStatusInfo: 'Ready'
+[4] 12:57:28:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:57:28:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:57:28:  ShowStatusInfo: 'Ready'
+[3] 12:57:34: Closing Workspace!
+[3] 12:57:34: Log closed!
