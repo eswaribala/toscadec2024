@@ -5932,3 +5932,4 @@
 [4] 16:00:53:  ShowStatusInfo: '1 object selected'
 [4] 16:00:54:  ShowStatusInfo: 'Ready'
 [4] 16:00:54:  ShowStatusInfo: '1 object selected'
+[4] 16:00:59:  ShowStatusInfo: 'Ready'
