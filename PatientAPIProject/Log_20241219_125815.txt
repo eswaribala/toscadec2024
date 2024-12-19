@@ -5933,3 +5933,14 @@
 [4] 16:00:54:  ShowStatusInfo: 'Ready'
 [4] 16:00:54:  ShowStatusInfo: '1 object selected'
 [4] 16:00:59:  ShowStatusInfo: 'Ready'
+[4] 16:10:37:  ShowStatusInfo: 'Saving ...'
+[3] 16:10:37:  Save started!
+[3] 16:10:37: QTestIntegrationAddIn beginning to Export to QTest
+[3] 16:10:37: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 16:10:37: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 16:10:37: LinkTcToQTestService grouping testcases by same endpoint
+[3] 16:10:37: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 16:10:37: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 16:10:37:  Save finished!
+[4] 16:10:37:  ShowStatusInfo: 'Saved successfully'
+[4] 16:10:38:  ShowStatusInfo: 'Ready'
