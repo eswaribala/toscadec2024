@@ -1,0 +1,4 @@
+http://localhost:80/Monitor/
+ 
+http://localhost:80/DistributionServerService/ManagerService.svc
+ 
