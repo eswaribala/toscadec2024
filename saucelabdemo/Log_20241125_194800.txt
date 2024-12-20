@@ -1,0 +1,95 @@
+[3] 19:48:00: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 19:48:00: Log level: 4
+[3] 19:48:00: Release: 24.1.1.5090
+[3] 19:48:00: Execution Approval is disabled.
+[3] 19:48:00: No service discovery configured.
+[3] 19:48:00:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 19:48:00:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 19:48:00:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 19:48:00: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 19:48:01: Searcher found 0 results in 213.9289 ms
+[3] 19:48:01:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 19:48:01:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 19:48:01:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 19:48:01:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 19:48:01: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[2] 19:48:01: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Ready'
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:48:08:  ShowStatusInfo: 'Refresh all finished'
+[3] 19:48:08: OpenWorkspace took 00:00:11.1498512 to finish
+[2] 19:48:08: Common repository is not available
+[4] 19:48:13:  ShowStatusInfo: 'Ready'
+[2] 19:48:59: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en-IN, PublicKeyToken=b77a5c561934e089
+[2] 19:48:59: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en, PublicKeyToken=b77a5c561934e089
+[3] 19:57:32: Closing Workspace!
+[3] 19:57:32: Log closed!

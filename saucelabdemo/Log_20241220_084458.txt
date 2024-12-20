@@ -1,0 +1,621 @@
+[3] 08:44:58: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 08:44:58: Log level: 4
+[3] 08:44:58: Release: 24.2.0.1807
+[3] 08:44:58: Execution Approval is disabled.
+[3] 08:44:58: Using the following service discovery: http://localhost:72
+[3] 08:44:58: ShouldSetAuthorizationHeader = False.
+[3] 08:44:58:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 08:44:58:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 08:44:58:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 08:44:58:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 08:44:58:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 08:44:58:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 08:44:59:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 08:44:59: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[2] 08:44:59: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 08:45:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 08:45:05:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 08:45:05:  ShowStatusInfo: 'Ready'
+[4] 08:45:05:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 08:45:05:  ShowStatusInfo: 'Ready'
+[4] 08:45:05:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 08:45:05:  ShowStatusInfo: 'Ready'
+[4] 08:45:05:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 08:45:05:  ShowStatusInfo: 'Ready'
+[4] 08:45:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 08:45:05:  ShowStatusInfo: 'Refresh all finished'
+[3] 08:45:05: OpenWorkspace took 00:00:10.6792613 to finish
+[2] 08:45:05: Common repository is not available
+[4] 08:45:10:  ShowStatusInfo: 'Ready'
+[4] 08:45:15:  ShowStatusInfo: '1 object selected'
+[4] 08:45:20:  ShowStatusInfo: 'Ready'
+[4] 08:45:20:  ShowStatusInfo: '1 object selected'
+[4] 08:45:22:  ShowStatusInfo: 'Ready'
+[4] 08:45:23:  ShowStatusInfo: '1 object selected'
+[4] 08:45:25:  ShowStatusInfo: 'Ready'
+[4] 08:45:25:  ShowStatusInfo: '1 object selected'
+[4] 08:45:30:  ShowStatusInfo: 'Ready'
+[4] 08:45:32:  ShowStatusInfo: '1 object selected'
+[4] 08:45:34:  ShowStatusInfo: 'Ready'
+[4] 08:45:34:  ShowStatusInfo: '1 object selected'
+[4] 08:45:36:  ShowStatusInfo: 'Ready'
+[4] 08:45:36:  ShowStatusInfo: '1 object selected'
+[4] 08:45:38:  ShowStatusInfo: 'Ready'
+[4] 08:45:38:  ShowStatusInfo: '1 object selected'
+[4] 08:45:43:  ShowStatusInfo: 'Ready'
+[4] 08:46:00:  ShowStatusInfo: '1 object selected'
+[4] 08:46:01:  ShowStatusInfo: 'Ready'
+[4] 08:46:02:  ShowStatusInfo: '1 object selected'
+[4] 08:46:03:  ShowStatusInfo: 'Ready'
+[4] 08:46:04:  ShowStatusInfo: '1 object selected'
+[4] 08:46:05:  ShowStatusInfo: 'Ready'
+[4] 08:46:05:  ShowStatusInfo: '1 object selected'
+[4] 08:46:06:  ShowStatusInfo: 'Ready'
+[4] 08:46:06:  ShowStatusInfo: '1 object selected'
+[4] 08:46:09:  ShowStatusInfo: 'Ready'
+[4] 08:46:22:  ShowStatusInfo: '1 object selected'
+[4] 08:46:22:  ShowStatusInfo: 'Ready'
+[4] 08:46:26:  ShowStatusInfo: '1 object selected'
+[4] 08:46:31:  ShowStatusInfo: 'Ready'
+[4] 08:46:31:  ShowStatusInfo: '1 object selected'
+[4] 08:46:36:  ShowStatusInfo: 'Ready'
+[4] 08:46:41:  ShowStatusInfo: '1 object selected'
+[4] 08:46:43:  ShowStatusInfo: 'Ready'
+[4] 08:46:43:  ShowStatusInfo: '1 object selected'
+[4] 08:46:46:  ShowStatusInfo: 'Ready'
+[4] 08:46:49:  ShowStatusInfo: '1 object selected'
+[4] 08:46:52:  ShowStatusInfo: 'Ready'
+[4] 08:46:53:  ShowStatusInfo: '1 object selected'
+[4] 08:47:00:  ShowStatusInfo: 'Ready'
+[4] 08:47:00:  ShowStatusInfo: '1 object selected'
+[4] 08:47:05:  ShowStatusInfo: 'Ready'
+[4] 08:47:07:  ShowStatusInfo: '1 object selected'
+[4] 08:47:08:  ShowStatusInfo: 'Ready'
+[4] 08:47:18:  ShowStatusInfo: '1 object selected'
+[4] 08:47:18:  ShowStatusInfo: 'Ready'
+[4] 08:47:19:  ShowStatusInfo: 'Loading Datasource'
+[4] 08:47:20:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 08:47:21:  ShowStatusInfo: '1 object selected'
+[2] 08:47:21: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=en-IN, PublicKeyToken=null
+[2] 08:47:21: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.0.1807, Culture=en, PublicKeyToken=null
+[4] 08:47:22:  ShowStatusInfo: 'Ready'
+[4] 08:47:31:  ShowStatusInfo: '1 object selected'
+[4] 08:47:32:  ShowStatusInfo: 'Ready'
+[3] 08:48:04: Task 'Edit SchemaPath' started on '/TestCases/LoginTemplate/TC2'
+[4] 08:48:04:  ShowStatusInfo: 'Edit SchemaPath'
+[4] 08:48:05:  ShowStatusInfo: 'Starting up SchemaPath-Wizard: This may take some seconds!'
+[4] 08:48:09:  ShowStatusInfo: 'Ready'
+[4] 08:48:09:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 08:48:09:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 08:48:09:  ShowStatusInfo: 'Ready'
+[4] 08:48:09:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 08:48:09:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 08:48:09:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 08:48:09:  ShowStatusInfo: 'Ready'
+[4] 08:48:09:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 08:48:09:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 08:48:10:  ShowStatusInfo: 'Edit SchemaPath finalizing ...'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 08:48:10:  ShowStatusInfo: 'Ready'
+[4] 08:48:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 08:48:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 08:48:10:  ShowStatusInfo: 'Edit SchemaPath finished'
+[3] 08:48:10: Task 'Edit SchemaPath' finished
+[4] 08:48:14:  ShowStatusInfo: 'Ready'
+[4] 09:01:13:  ShowStatusInfo: '1 object selected'
+[4] 09:01:14:  ShowStatusInfo: 'Ready'
+[4] 09:04:04:  ShowStatusInfo: '1 object selected'
+[4] 09:04:05:  ShowStatusInfo: 'Ready'
+[4] 09:04:05:  ShowStatusInfo: '1 object selected'
+[4] 09:04:06:  ShowStatusInfo: 'Ready'
+[4] 09:04:07:  ShowStatusInfo: '1 object selected'
+[4] 09:04:07:  ShowStatusInfo: 'Ready'
+[4] 09:04:07:  ShowStatusInfo: '1 object selected'
+[4] 09:04:09:  ShowStatusInfo: 'Ready'
+[4] 09:04:10:  ShowStatusInfo: '1 object selected'
+[4] 09:04:10:  ShowStatusInfo: 'Ready'
+[4] 09:04:13:  ShowStatusInfo: '1 object selected'
+[4] 09:04:13:  ShowStatusInfo: 'Ready'
+[4] 09:04:18:  ShowStatusInfo: '1 object selected'
+[4] 09:04:23:  ShowStatusInfo: 'Ready'
+[4] 09:12:49:  ShowStatusInfo: '1 object selected'
+[4] 09:12:49:  ShowStatusInfo: 'Ready'
+[4] 09:12:51:  ShowStatusInfo: '1 object selected'
+[4] 09:12:51:  ShowStatusInfo: 'Ready'
+[4] 09:12:57:  ShowStatusInfo: '1 object selected'
+[4] 09:12:57:  ShowStatusInfo: 'Ready'
+[4] 09:13:03:  ShowStatusInfo: '1 object selected'
+[4] 09:13:08:  ShowStatusInfo: 'Ready'
+[4] 09:24:27:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:24:27:  ShowStatusInfo: 'Ready'
+[4] 09:24:27:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:24:27:  ShowStatusInfo: 'Ready'
+[4] 09:24:27:  ShowStatusInfo: 'Refresh view finished'
+[4] 09:24:29:  ShowStatusInfo: 'Ready'
+[4] 10:19:57:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 10:19:57:  ShowStatusInfo: 'Ready'
+[4] 10:19:57:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 10:19:57:  ShowStatusInfo: 'Ready'
+[4] 10:19:57:  ShowStatusInfo: 'Refresh view finished'
+[4] 10:20:02:  ShowStatusInfo: 'Ready'
+[4] 10:20:08:  ShowStatusInfo: '1 object selected'
+[4] 10:20:08:  ShowStatusInfo: 'Ready'
+[4] 10:20:11:  ShowStatusInfo: '1 object selected'
+[4] 10:20:13:  ShowStatusInfo: 'Ready'
+[4] 10:20:13:  ShowStatusInfo: '1 object selected'
+[4] 10:20:16:  ShowStatusInfo: 'Ready'
+[4] 10:20:16:  ShowStatusInfo: '1 object selected'
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 11.069 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.1096 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0419 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.033 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0366 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0293 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0286 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0418 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.029 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0956 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0236 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0223 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0203 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0332 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0432 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0189 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0693 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0282 ms
+[4] 10:20:18:  ShowStatusInfo: 'Ready'
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.1015 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0542 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0205 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0185 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0192 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0177 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0175 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0175 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0177 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.111 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0368 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0215 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0206 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0206 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0203 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0204 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0193 ms
+[3] 10:20:18: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:18: Searcher found 1 results in 0.0272 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.1015 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0279 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.023 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0222 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0216 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0215 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0306 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0304 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0208 ms
+[4] 10:20:20:  ShowStatusInfo: '1 object selected'
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.2022 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.1157 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0362 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0426 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0311 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0275 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.022 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.0344 ms
+[3] 10:20:20: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:20: Searcher found 1 results in 0.033 ms
+[4] 10:20:23:  ShowStatusInfo: 'Ready'
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.2711 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.03 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0363 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0171 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0178 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.016 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0607 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0175 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0163 ms
+[4] 10:20:23:  ShowStatusInfo: '1 object selected'
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.2582 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0358 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0272 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0215 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0203 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0197 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0768 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0567 ms
+[3] 10:20:23: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:23: Searcher found 1 results in 0.0365 ms
+[4] 10:20:24:  ShowStatusInfo: 'Ready'
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.1098 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0177 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0138 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0206 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0136 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0125 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0134 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0122 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0228 ms
+[4] 10:20:24:  ShowStatusInfo: '1 object selected'
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0735 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0158 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0144 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0219 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0131 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0123 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0125 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0214 ms
+[3] 10:20:24: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:24: Searcher found 1 results in 0.0131 ms
+[4] 10:20:26:  ShowStatusInfo: 'Ready'
+[4] 10:20:26:  ShowStatusInfo: '1 object selected'
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.1258 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0305 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0293 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0253 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0243 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0253 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0239 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0234 ms
+[3] 10:20:26: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:26: Searcher found 1 results in 0.0246 ms
+[4] 10:20:26:  ShowStatusInfo: 'Ready'
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.1253 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0696 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0531 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0361 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0721 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0354 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0358 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0176 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0156 ms
+[4] 10:20:28:  ShowStatusInfo: '1 object selected'
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.1014 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0288 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0259 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0254 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.03 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0258 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0258 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0254 ms
+[3] 10:20:28: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:28: Searcher found 1 results in 0.0236 ms
+[4] 10:20:30:  ShowStatusInfo: 'Ready'
+[4] 10:20:30:  ShowStatusInfo: '1 object selected'
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.117 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.016 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0137 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0262 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0117 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0116 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0113 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0115 ms
+[3] 10:20:30: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:30: Searcher found 1 results in 0.0207 ms
+[4] 10:20:31:  ShowStatusInfo: 'Ready'
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.1185 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0501 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0303 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0183 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0169 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0345 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0466 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0324 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0247 ms
+[4] 10:20:31:  ShowStatusInfo: '1 object selected'
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0917 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0189 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0157 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0149 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.015 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0151 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0142 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0143 ms
+[3] 10:20:31: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:31: Searcher found 1 results in 0.0144 ms
+[4] 10:20:34:  ShowStatusInfo: 'Ready'
+[4] 10:20:37:  ShowStatusInfo: '1 object selected'
+[4] 10:20:37:  ShowStatusInfo: 'Ready'
+[4] 10:20:38:  ShowStatusInfo: '1 object selected'
+[4] 10:20:39:  ShowStatusInfo: 'Ready'
+[4] 10:20:39:  ShowStatusInfo: '1 object selected'
+[4] 10:20:44:  ShowStatusInfo: 'Ready'
+[4] 10:20:48:  ShowStatusInfo: '1 object selected'
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0697 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0294 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0164 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 2 results in 6.7027 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0789 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0193 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0138 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0156 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0747 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0151 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0126 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 2 results in 0.013 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0114 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.025 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0354 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.1054 ms
+[4] 10:20:48:  ShowStatusInfo: 'Ready'
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0904 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0142 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.013 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 2 results in 0.0261 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0105 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0111 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0099 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0107 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.071 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0491 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0243 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 2 results in 0.0146 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0122 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0119 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0115 ms
+[3] 10:20:48: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:48: Searcher found 1 results in 0.0114 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0782 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0151 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.013 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 2 results in 0.0242 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0126 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0127 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0115 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0117 ms
+[4] 10:20:50:  ShowStatusInfo: '1 object selected'
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.1277 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0183 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.016 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 2 results in 0.0318 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0237 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0167 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.0145 ms
+[3] 10:20:50: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:50: Searcher found 1 results in 0.032 ms
+[4] 10:20:51:  ShowStatusInfo: 'Ready'
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0836 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0179 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0263 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 2 results in 0.0124 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0119 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0116 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0102 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0126 ms
+[4] 10:20:51:  ShowStatusInfo: '1 object selected'
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.079 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0347 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.021 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 2 results in 0.0205 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0149 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0219 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.012 ms
+[3] 10:20:51: Search started on 1 objects for query '->self->ReusedItem->SUBPARTS'
+[3] 10:20:51: Searcher found 1 results in 0.0118 ms
+[4] 10:20:56:  ShowStatusInfo: 'Ready'
+[3] 11:01:50: Closing Workspace!
+[3] 11:01:50: Log closed!

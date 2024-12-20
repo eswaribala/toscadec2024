@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "1\\a",
+  "agent_builddirectory": "1",
+  "collectionUrl": "https://dev.azure.com/toscaprojectnov2024/",
+  "definitionName": "tosca-CI",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "__designer_repo",
+      "repositoryType": "GitHub",
+      "repositoryUrl": "https://github.com/eswaribala/metlifetoscanov2024",
+      "sourcesDirectory": "1\\s\\metlifetoscanov2024"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "11/26/2024 13:59:34 +05:30",
+  "repositoryType": "GitHub",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "1\\s",
+  "common_testresultsdirectory": "1\\TestResults",
+  "collectionId": "b3fbf894-8e1d-4d5b-af5a-aba4b8307b4c",
+  "definitionId": "13",
+  "hashKey": "150d0a7018bd161c17637dd9c3525029243ec68d",
+  "repositoryUrl": "https://github.com/eswaribala/metlifetoscanov2024",
+  "system": "build"
+}

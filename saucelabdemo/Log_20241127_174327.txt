@@ -1,0 +1,124 @@
+[3] 17:43:27: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 17:43:27: Log level: 4
+[3] 17:43:27: Release: 24.1.1.5090
+[3] 17:43:27: Execution Approval is disabled.
+[3] 17:43:27: No service discovery configured.
+[3] 17:43:27:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 17:43:27:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 17:43:27: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:43:27: Searcher found 0 results in 105.9398 ms
+[3] 17:43:27:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 17:43:27:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 17:43:27:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 17:43:27:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 17:43:27: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[2] 17:43:27: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:43:37:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 17:43:38:  ShowStatusInfo: 'Ready'
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 17:43:38:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 17:43:39:  ShowStatusInfo: 'Ready'
+[4] 17:43:39:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:43:40:  ShowStatusInfo: 'Refresh all finished'
+[3] 17:43:40: OpenWorkspace took 00:00:14.8049248 to finish
+[2] 17:43:40: Common repository is not available
+[4] 17:43:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:43:44:  ShowStatusInfo: 'Ready'
+[4] 17:43:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:43:44:  ShowStatusInfo: 'Ready'
+[4] 17:43:44:  ShowStatusInfo: 'Refresh view finished'
+[4] 17:43:46:  ShowStatusInfo: 'Ready'
+[4] 17:43:47:  ShowStatusInfo: '1 object selected'
+[4] 17:43:48:  ShowStatusInfo: 'Ready'
+[4] 17:43:48:  ShowStatusInfo: '1 object selected'
+[4] 17:43:49:  ShowStatusInfo: 'Ready'
+[4] 17:43:49:  ShowStatusInfo: '1 object selected'
+[4] 17:43:51:  ShowStatusInfo: 'Ready'
+[4] 17:43:52:  ShowStatusInfo: '1 object selected'
+[4] 17:43:54:  ShowStatusInfo: 'Ready'
+[4] 17:43:56:  ShowStatusInfo: '1 object selected'
+[4] 17:44:00:  ShowStatusInfo: 'Ready'
+[4] 17:44:00:  ShowStatusInfo: '1 object selected'
+[4] 17:44:02:  ShowStatusInfo: 'Ready'
+[4] 17:44:02:  ShowStatusInfo: '1 object selected'
+[4] 17:44:03:  ShowStatusInfo: 'Ready'
+[4] 17:44:03:  ShowStatusInfo: '1 object selected'
+[4] 17:44:05:  ShowStatusInfo: 'Ready'
+[4] 17:44:05:  ShowStatusInfo: '1 object selected'
+[4] 17:44:10:  ShowStatusInfo: 'Ready'
+[4] 17:53:16:  ShowStatusInfo: '1 object selected'
+[4] 17:53:21:  ShowStatusInfo: 'Ready'
+[3] 18:30:44: Closing Workspace!
+[3] 18:30:44: Log closed!

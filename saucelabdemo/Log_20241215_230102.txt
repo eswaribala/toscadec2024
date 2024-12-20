@@ -1,0 +1,52 @@
+[3] 23:01:02: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 23:01:02: Log level: 4
+[3] 23:01:02: Release: 24.2.0.1807
+[3] 23:01:02: Execution Approval is disabled.
+[3] 23:01:02: Using the following service discovery: https://desktop-b08baan/
+[3] 23:01:02: ShouldSetAuthorizationHeader = True.
+[3] 23:01:02:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 23:01:02:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 23:01:02:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 23:01:02:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 23:01:02:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 23:01:02:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 23:01:02: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[4] 23:01:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 23:01:06:  ShowStatusInfo: 'Ready'
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 23:01:06:  ShowStatusInfo: 'Ready'
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 23:01:06:  ShowStatusInfo: 'Ready'
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 23:01:06:  ShowStatusInfo: 'Ready'
+[4] 23:01:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:01:06:  ShowStatusInfo: 'Refresh all finished'
+[3] 23:01:06: OpenWorkspace took 00:00:05.7640954 to finish
+[2] 23:01:06: Common repository is not available
+[4] 23:01:11:  ShowStatusInfo: 'Ready'
+[3] 23:01:19: Closing Workspace!
+[3] 23:01:19: Log closed!
