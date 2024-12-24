@@ -1,0 +1,1 @@
+jdbc:mysql://localhost:3306/toscadb?user=root&password=rps@123&useSSL=true
