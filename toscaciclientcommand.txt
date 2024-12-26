@@ -1,0 +1,1 @@
+ToscaCIClient.exe -m local -w "C:\Tosca_Projects\Tosca_Workspaces\TestWS3\TestWS3.tws" -c "c:\temp\CITestExecutionConfiguration.xml" -e "Execution\ExecutionLists\OpenUrlExecutionFolder\OpenUrlExecutionList" -l "c:\temp\result.xml" -r "c:\temp\debug_log.txt"
