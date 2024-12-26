@@ -7,3 +7,11 @@
     </setting>
 
     </Tricentis.TCCore.Persistency.Properties.Settings>
+
+
+----
+
+
+<setting name="IsSingleUserWorkspace" serializeAs="String">
+        <value>False</value>
+      </setting>
