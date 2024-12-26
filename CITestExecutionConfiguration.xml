@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<testConfiguration>    
+    <TestEvents>        
+            
+        <TestEvent>TestEventV1</TestEvent>    
+    </TestEvents>
+</testConfiguration>
