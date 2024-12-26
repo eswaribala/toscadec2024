@@ -1,0 +1,9 @@
+<Tricentis.TCCore.Persistency.Properties.Settings>
+<setting name="DatabaseConnectionString" serializeAs="String">
+      <value>Server=DESKTOP-B08BAAN\MSSQLSERVER2024;Database=ToscaTestDBV1;User=sa;Password=vignesh;</value>
+    </setting>
+    <setting name="MaxRetries" serializeAs="String">
+      <value>5</value>
+    </setting>
+
+    </Tricentis.TCCore.Persistency.Properties.Settings>
